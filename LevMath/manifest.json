@@ -1,18 +1,14 @@
 {
-  "name": "Lev Math — играй и считай",
-  "short_name": "Lev Math",
-  "description": "Весёлые математические игры с Львом Лёвой",
+  "name": "LEV MATH — математические игры",
+  "short_name": "LEV MATH",
+  "description": "Учись играя вместе с Лёвой",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#fff2cc",
-  "theme_color": "#fff2cc",
+  "orientation": "portrait",
+  "background_color": "#f7f4ed",
+  "theme_color": "#f7f4ed",
   "icons": [
-    {
-      "src": "icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
   ]
 }
