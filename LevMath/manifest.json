@@ -1,0 +1,18 @@
+{
+  "name": "Lev Math — играй и считай",
+  "short_name": "Lev Math",
+  "description": "Весёлые математические игры с Львом Лёвой",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff2cc",
+  "theme_color": "#fff2cc",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
